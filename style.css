@@ -7,9 +7,8 @@
     src: url('https://cdn.jsdelivr.net/gh/IBM/plex@master/IBM-Plex-Sans-Thai/fonts/complete/woff2/IBMPlexSansThai-Regular.woff2') format("woff2");
     src: url('https://cdn.jsdelivr.net/gh/IBM/plex@master/IBM-Plex-Sans-Thai/fonts/complete/woff2/IBMPlexSansThai-SemiBold.woff2') format("woff2");
     src: url('https://cdn.jsdelivr.net/gh/IBM/plex@master/IBM-Plex-Sans-Thai/fonts/complete/woff2/IBMPlexSansThai-Text.woff2') format("woff2");
-/*     src: url('https://cdn.jsdelivr.net/gh/IBM/plex@master/IBM-Plex-Sans-Thai/fonts/complete/woff2/IBMPlexSansThai-Thin.woff2') format("woff2"); */
   }
   body {
     font-family: 'IBMPlexSansThai', sans-serif !important;
-      font-size: 1.5rem !important;
+    font-size: 1.2rem !important;
   }
